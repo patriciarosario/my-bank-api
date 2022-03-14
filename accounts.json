@@ -1,0 +1,20 @@
+{
+  "nextId": 9,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Mario Sena 1",
+      "balance": 15698
+    },
+    {
+      "id": 2,
+      "name": "João Silva",
+      "balance": 76.6
+    },
+    {
+      "id": 8,
+      "name": "Karen Viana 96",
+      "balance": 100.6
+    }
+  ]
+}

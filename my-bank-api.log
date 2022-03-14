@@ -1,0 +1,495 @@
+2022-03-06T13:37:59.740Z [my-bank-api] info: API Started!
+2022-03-06T13:38:24.037Z [my-bank-api] error: ENOENT: no such file or directory, open 'D:\Users\Patricia\Documents\Bootcamp NodeJs\modulo1\my-bank-api\accounts.json'
+2022-03-06T13:39:24.805Z [my-bank-api] error: ENOENT: no such file or directory, open 'D:\Users\Patricia\Documents\Bootcamp NodeJs\modulo1\my-bank-api\accounts.json'
+2022-03-06T13:39:39.974Z [my-bank-api] info: API Started and File Created!
+2022-03-06T13:45:39.157Z [my-bank-api] info: API Started!
+2022-03-06T13:46:04.609Z [my-bank-api] info: POST /account - {"id":1,"name":"João Silva","balance":3451.2}
+2022-03-06T13:46:29.973Z [my-bank-api] info: POST /account - {"id":2,"name":"Maria Souza","balance":581.2}
+2022-03-06T13:46:40.612Z [my-bank-api] info: GET /account/id
+2022-03-06T13:46:54.683Z [my-bank-api] info: POST /account - {"id":3,"name":"Maria Souza","balance":581.2}
+2022-03-06T13:47:04.404Z [my-bank-api] info: GET /account
+2022-03-06T13:47:11.748Z [my-bank-api] info: DELETE /account/id - 3
+2022-03-06T13:47:15.630Z [my-bank-api] info: GET /account
+2022-03-06T13:47:41.663Z [my-bank-api] info: PATCH /account/UpdateBalance - {"id":2,"balance":5800.2}
+2022-03-06T13:52:32.890Z [my-bank-api] info: API Started!
+2022-03-06T13:53:04.723Z [my-bank-api] error: Name e Balance são obrigatórios.
+2022-03-06T13:53:57.936Z [my-bank-api] info: API Started!
+2022-03-06T13:54:11.384Z [my-bank-api] error: Name e Balance são obrigatórios.
+2022-03-06T13:55:00.609Z [my-bank-api] info: API Started!
+2022-03-06T13:55:03.343Z [my-bank-api] info: POST /account - {"id":4,"name":"Ricardo Andrade","balance":0}
+2022-03-06T13:57:14.120Z [my-bank-api] info: API Started!
+2022-03-06T13:57:53.232Z [my-bank-api] info: POST /account - {"id":5,"name":"Mario Sena","balance":8956.6}
+2022-03-06T14:00:03.854Z [my-bank-api] info: API Started!
+2022-03-06T14:01:13.310Z [my-bank-api] info: API Started!
+2022-03-06T14:01:27.345Z [my-bank-api] error: Registro não encontrado.
+2022-03-06T14:01:33.615Z [my-bank-api] info: PATCH /account/UpdateBalance - {"id":2,"balance":5800.2}
+2022-03-06T14:03:44.071Z [my-bank-api] info: PUT /account - {}
+2022-03-06T14:03:49.647Z [my-bank-api] info: API Started!
+2022-03-06T14:03:51.660Z [my-bank-api] error: Name e Balance são obrigatórios.
+2022-03-06T14:03:55.977Z [my-bank-api] error: Registro não encontrado.
+2022-03-06T14:04:27.039Z [my-bank-api] info: GET /account
+2022-03-06T14:04:53.300Z [my-bank-api] info: PUT /account - {"id":4,"name":"Ricardo Andrade","balance":0}
+2022-03-06T14:06:11.072Z [my-bank-api] info: API Started!
+2022-03-06T14:06:41.168Z [my-bank-api] info: PUT /account - {"id":4,"name":"Ricardo Andrade","balance":0,"sfjsjd":"jnjdbjdb"}
+2022-03-06T14:07:56.580Z [my-bank-api] error: Name e Balance são obrigatórios.
+2022-03-06T14:08:37.226Z [my-bank-api] info: PUT /account - {"id":4,"name":"Ricardo Andrade","balance":4589}
+2022-03-06T14:09:51.548Z [my-bank-api] info: API Started!
+2022-03-06T14:10:52.434Z [my-bank-api] info: API Started!
+2022-03-06T14:11:07.269Z [my-bank-api] error: Id e Balance são obrigatórios.
+2022-03-06T14:11:20.252Z [my-bank-api] info: PATCH /account/UpdateBalance - {"id":5,"balance":58900.2}
+2022-03-06T14:12:59.155Z [my-bank-api] info: API Started!
+2022-03-06T14:21:11.330Z [my-bank-api] info: API Started!
+2022-03-06T14:23:14.413Z [my-bank-api] info: API Started!
+2022-03-06T14:24:21.407Z [my-bank-api] info: GET /account
+2022-03-06T14:30:23.387Z [my-bank-api] info: API Started!
+2022-03-06T14:31:02.523Z [my-bank-api] info: GET /account
+2022-03-06T14:32:04.761Z [my-bank-api] info: GET /account
+2022-03-06T14:32:11.393Z [my-bank-api] info: GET /account
+2022-03-06T14:34:04.355Z [my-bank-api] info: API Started!
+2022-03-06T14:34:13.110Z [my-bank-api] info: GET /account
+2022-03-06T14:34:48.950Z [my-bank-api] info: API Started!
+2022-03-06T14:35:11.793Z [my-bank-api] info: API Started!
+2022-03-06T14:35:56.647Z [my-bank-api] info: API Started!
+2022-03-06T14:36:00.460Z [my-bank-api] info: GET /account
+2022-03-06T14:37:35.596Z [my-bank-api] info: API Started!
+2022-03-06T15:22:23.437Z [my-bank-api] info: API Started!
+2022-03-06T15:23:30.611Z [my-bank-api] info: API Started!
+2022-03-06T15:28:16.508Z [my-bank-api] info: API Started!
+2022-03-06T15:30:06.927Z [my-bank-api] info: API Started!
+2022-03-06T15:31:37.872Z [my-bank-api] info: GET /account
+2022-03-06T15:32:59.970Z [my-bank-api] info: GET /account
+2022-03-06T15:38:23.306Z [my-bank-api] info: API Started!
+2022-03-06T16:01:30.103Z [my-bank-api] info: API Started!
+2022-03-06T16:02:02.726Z [my-bank-api] info: GET /account/id
+2022-03-06T16:25:11.447Z [my-bank-api] info: PUT /account - {"id":4,"name":"Ricardo Andrade","balance":4589}
+2022-03-06T16:25:17.536Z [my-bank-api] info: GET /account
+2022-03-06T16:27:17.193Z [my-bank-api] info: DELETE /account/id - 5
+2022-03-06T16:27:32.494Z [my-bank-api] info: GET /account
+2022-03-06T16:29:38.182Z [my-bank-api] info: PUT /account - {"id":4,"name":"Ricardo Andrade","balance":45889}
+2022-03-06T17:01:16.720Z [my-bank-api] info: API Started!
+2022-03-06T17:01:50.566Z [my-bank-api] info: GET /account
+2022-03-06T17:21:40.221Z [my-bank-api] info: API Started!
+2022-03-07T23:03:04.263Z [my-bank-api] info: API Started and File Created!
+2022-03-07T23:03:22.833Z [my-bank-api] info: API Started!
+2022-03-07T23:03:47.351Z [my-bank-api] info: GET /account
+2022-03-07T23:04:16.254Z [my-bank-api] info: GET /account
+2022-03-07T23:04:30.192Z [my-bank-api] info: API Started!
+2022-03-07T23:04:44.713Z [my-bank-api] info: GET /account
+2022-03-07T23:06:55.382Z [my-bank-api] error: ENOENT: no such file or directory, open 'D:\Users\Patricia\Documents\Bootcamp NodeJs\modulo1\my-bank-api\account.json'
+2022-03-07T23:07:02.505Z [my-bank-api] info: API Started!
+2022-03-07T23:07:05.477Z [my-bank-api] info: GET /account
+2022-03-07T23:08:16.330Z [my-bank-api] info: API Started!
+2022-03-07T23:12:05.241Z [my-bank-api] info: API Started!
+2022-03-07T23:12:44.107Z [my-bank-api] info: API Started!
+2022-03-07T23:14:01.608Z [my-bank-api] info: API Started!
+2022-03-07T23:15:10.799Z [my-bank-api] info: API Started!
+2022-03-07T23:16:43.349Z [my-bank-api] info: API Started!
+2022-03-07T23:16:47.591Z [my-bank-api] info: GET /account
+2022-03-07T23:18:29.470Z [my-bank-api] info: API Started!
+2022-03-07T23:18:59.891Z [my-bank-api] info: API Started!
+2022-03-07T23:20:13.104Z [my-bank-api] info: API Started!
+2022-03-07T23:20:44.818Z [my-bank-api] info: API Started!
+2022-03-07T23:21:01.540Z [my-bank-api] info: POST /account - {"id":6,"name":"Mario Sena","balance":8956.6}
+2022-03-07T23:21:06.938Z [my-bank-api] info: GET /account
+2022-03-07T23:22:05.189Z [my-bank-api] info: API Started!
+2022-03-07T23:22:22.363Z [my-bank-api] info: API Started!
+2022-03-07T23:22:30.389Z [my-bank-api] info: GET /account
+2022-03-07T23:24:00.649Z [my-bank-api] info: API Started!
+2022-03-07T23:24:08.748Z [my-bank-api] info: DELETE /account/id - 6
+2022-03-07T23:24:13.627Z [my-bank-api] info: GET /account
+2022-03-07T23:25:30.730Z [my-bank-api] info: API Started!
+2022-03-07T23:25:55.648Z [my-bank-api] info: PUT /account - {"id":4,"name":"Ricardo Luis","balance":45889}
+2022-03-07T23:26:05.404Z [my-bank-api] info: GET /account
+2022-03-07T23:26:21.483Z [my-bank-api] info: API Started!
+2022-03-07T23:27:52.428Z [my-bank-api] info: API Started!
+2022-03-07T23:28:10.343Z [my-bank-api] error: Registro não encontrado.
+2022-03-07T23:28:15.729Z [my-bank-api] info: PATCH /account/UpdateBalance - {"id":1,"balance":100.2}
+2022-03-07T23:28:20.439Z [my-bank-api] info: GET /account
+2022-03-07T23:31:00.980Z [my-bank-api] info: API Started!
+2022-03-07T23:31:42.371Z [my-bank-api] info: API Started!
+2022-03-07T23:31:53.524Z [my-bank-api] info: API Started!
+2022-03-07T23:32:48.526Z [my-bank-api] info: API Started!
+2022-03-07T23:33:28.028Z [my-bank-api] info: API Started!
+2022-03-07T23:34:12.229Z [my-bank-api] info: API Started!
+2022-03-07T23:34:18.478Z [my-bank-api] info: API Started!
+2022-03-07T23:36:10.344Z [my-bank-api] info: API Started!
+2022-03-07T23:37:28.261Z [my-bank-api] info: API Started!
+2022-03-07T23:38:15.545Z [my-bank-api] info: API Started!
+2022-03-07T23:38:33.127Z [my-bank-api] info: API Started!
+2022-03-07T23:38:53.829Z [my-bank-api] info: API Started!
+2022-03-07T23:39:08.085Z [my-bank-api] info: API Started!
+2022-03-07T23:39:20.441Z [my-bank-api] error: data is not defined
+2022-03-07T23:40:05.885Z [my-bank-api] info: API Started!
+2022-03-07T23:40:07.906Z [my-bank-api] error: data is not defined
+2022-03-07T23:41:08.394Z [my-bank-api] info: API Started!
+2022-03-07T23:41:12.107Z [my-bank-api] info: API Started!
+2022-03-07T23:41:13.850Z [my-bank-api] info: POST /account - {"id":7,"name":"Mario Sena","balance":8956.6}
+2022-03-07T23:41:32.528Z [my-bank-api] info: API Started!
+2022-03-07T23:44:34.534Z [my-bank-api] info: API Started!
+2022-03-07T23:45:07.033Z [my-bank-api] info: API Started!
+2022-03-07T23:45:57.364Z [my-bank-api] info: API Started!
+2022-03-07T23:46:12.095Z [my-bank-api] info: API Started!
+2022-03-07T23:47:14.866Z [my-bank-api] info: API Started!
+2022-03-07T23:47:25.987Z [my-bank-api] info: API Started!
+2022-03-07T23:47:29.230Z [my-bank-api] info: API Started!
+2022-03-07T23:47:45.325Z [my-bank-api] info: API Started!
+2022-03-07T23:48:00.344Z [my-bank-api] info: API Started!
+2022-03-07T23:48:30.641Z [my-bank-api] info: API Started!
+2022-03-07T23:49:26.678Z [my-bank-api] info: API Started!
+2022-03-07T23:50:53.980Z [my-bank-api] info: API Started!
+2022-03-07T23:51:30.594Z [my-bank-api] info: API Started!
+2022-03-07T23:53:10.156Z [my-bank-api] info: API Started!
+2022-03-07T23:53:12.511Z [my-bank-api] info: API Started!
+2022-03-07T23:53:21.664Z [my-bank-api] info: API Started!
+2022-03-07T23:53:47.239Z [my-bank-api] info: API Started!
+2022-03-07T23:54:21.987Z [my-bank-api] info: API Started!
+2022-03-07T23:55:12.926Z [my-bank-api] info: API Started!
+2022-03-07T23:55:26.310Z [my-bank-api] info: API Started!
+2022-03-07T23:55:44.413Z [my-bank-api] info: API Started!
+2022-03-07T23:55:58.515Z [my-bank-api] info: API Started!
+2022-03-07T23:56:28.766Z [my-bank-api] info: API Started!
+2022-03-07T23:56:55.551Z [my-bank-api] info: API Started!
+2022-03-07T23:57:27.878Z [my-bank-api] info: API Started!
+2022-03-07T23:57:32.606Z [my-bank-api] info: API Started!
+2022-03-07T23:58:57.757Z [my-bank-api] info: API Started!
+2022-03-07T23:59:03.094Z [my-bank-api] info: API Started!
+2022-03-07T23:59:25.005Z [my-bank-api] info: API Started!
+2022-03-07T23:59:59.237Z [my-bank-api] info: API Started!
+2022-03-08T00:00:18.326Z [my-bank-api] info: API Started!
+2022-03-08T00:00:34.186Z [my-bank-api] info: API Started!
+2022-03-08T00:00:40.736Z [my-bank-api] info: POST /account - {"id":8,"name":"Mario Sena","balance":8956.6}
+2022-03-08T00:00:44.728Z [my-bank-api] info: GET /account
+2022-03-08T00:00:54.601Z [my-bank-api] info: GET /account
+2022-03-08T00:01:09.302Z [my-bank-api] error: Assignment to constant variable.
+2022-03-08T00:03:40.790Z [my-bank-api] info: API Started!
+2022-03-08T00:03:44.123Z [my-bank-api] error: Assignment to constant variable.
+2022-03-08T00:03:48.763Z [my-bank-api] info: GET /account
+2022-03-08T00:03:58.266Z [my-bank-api] error: Assignment to constant variable.
+2022-03-08T00:04:37.155Z [my-bank-api] error: Assignment to constant variable.
+2022-03-08T00:05:00.259Z [my-bank-api] info: API Started!
+2022-03-08T00:05:02.079Z [my-bank-api] info: PUT /account - {"id":4,"name":"Ricardo Amado","balance":45889}
+2022-03-08T00:05:17.954Z [my-bank-api] error: Assignment to constant variable.
+2022-03-08T00:05:35.662Z [my-bank-api] info: API Started!
+2022-03-08T00:05:44.906Z [my-bank-api] info: PATCH /account/UpdateBalance - {"id":1,"balance":1058.2}
+2022-03-08T00:05:49.009Z [my-bank-api] info: GET /account
+2022-03-08T00:08:09.957Z [my-bank-api] info: API Started!
+2022-03-08T00:12:28.340Z [my-bank-api] info: API Started!
+2022-03-08T00:15:07.394Z [my-bank-api] info: API Started!
+2022-03-08T00:15:14.235Z [my-bank-api] info: GET /account
+2022-03-08T00:16:15.187Z [my-bank-api] info: API Started!
+2022-03-08T00:17:08.181Z [my-bank-api] info: API Started!
+2022-03-08T00:18:14.888Z [my-bank-api] info: API Started!
+2022-03-08T00:19:31.195Z [my-bank-api] info: API Started!
+2022-03-08T00:20:21.075Z [my-bank-api] info: API Started!
+2022-03-08T00:22:10.773Z [my-bank-api] info: API Started!
+2022-03-08T00:22:28.862Z [my-bank-api] info: API Started!
+2022-03-08T00:22:43.697Z [my-bank-api] info: API Started!
+2022-03-08T00:24:21.294Z [my-bank-api] info: API Started!
+2022-03-08T00:24:29.797Z [my-bank-api] info: API Started!
+2022-03-08T00:24:45.801Z [my-bank-api] info: API Started!
+2022-03-08T00:28:03.188Z [my-bank-api] info: API Started!
+2022-03-08T00:28:17.014Z [my-bank-api] info: API Started!
+2022-03-08T00:30:34.046Z [my-bank-api] info: API Started!
+2022-03-08T00:30:44.569Z [my-bank-api] info: API Started!
+2022-03-08T00:31:11.251Z [my-bank-api] info: API Started!
+2022-03-08T00:31:19.123Z [my-bank-api] info: GET /account
+2022-03-08T00:31:24.604Z [my-bank-api] info: GET /account
+2022-03-08T00:31:36.699Z [my-bank-api] info: GET /account
+2022-03-08T00:31:41.585Z [my-bank-api] info: GET /account
+2022-03-08T00:31:52.896Z [my-bank-api] info: GET /account
+2022-03-08T00:32:49.656Z [my-bank-api] info: API Started!
+2022-03-08T00:32:51.796Z [my-bank-api] info: GET /account
+2022-03-08T00:32:55.203Z [my-bank-api] info: GET /account
+2022-03-08T00:32:55.835Z [my-bank-api] info: GET /account
+2022-03-08T00:33:19.032Z [my-bank-api] info: POST /account - {"id":9,"name":"Mario Sena","balance":8956.6}
+2022-03-08T00:33:22.871Z [my-bank-api] info: GET /account
+2022-03-08T00:33:41.586Z [my-bank-api] info: PUT /account - {"id":4,"name":"Ricardo Ferreira","balance":45889}
+2022-03-08T00:36:19.275Z [my-bank-api] info: API Started!
+2022-03-08T00:37:23.486Z [my-bank-api] info: API Started!
+2022-03-08T00:37:34.100Z [my-bank-api] info: GET /account
+2022-03-08T00:37:38.701Z [my-bank-api] info: API Started!
+2022-03-08T00:37:41.994Z [my-bank-api] info: GET /account
+2022-03-08T00:44:35.963Z [my-bank-api] info: API Started!
+2022-03-08T00:44:42.342Z [my-bank-api] info: POST /account - {"id":10,"name":"Mario Sena","balance":8956.6}
+2022-03-08T00:44:45.200Z [my-bank-api] info: GET /account
+2022-03-08T00:48:03.509Z [my-bank-api] info: API Started!
+2022-03-08T00:48:08.164Z [my-bank-api] info: GET /account
+2022-03-08T00:48:29.354Z [my-bank-api] info: API Started!
+2022-03-08T00:48:46.435Z [my-bank-api] info: API Started!
+2022-03-08T00:48:55.737Z [my-bank-api] info: GET /account
+2022-03-08T00:49:04.740Z [my-bank-api] info: GET /account
+2022-03-08T00:49:08.629Z [my-bank-api] info: GET /account
+2022-03-08T00:49:25.357Z [my-bank-api] info: GET /account
+2022-03-08T00:51:05.597Z [my-bank-api] info: API Started!
+2022-03-08T00:51:08.059Z [my-bank-api] info: GET /account
+2022-03-08T00:51:11.089Z [my-bank-api] info: GET /account
+2022-03-08T00:51:12.375Z [my-bank-api] info: GET /account
+2022-03-08T00:51:13.530Z [my-bank-api] info: GET /account
+2022-03-08T00:51:14.027Z [my-bank-api] info: GET /account
+2022-03-08T00:51:14.380Z [my-bank-api] info: GET /account
+2022-03-08T00:51:14.701Z [my-bank-api] info: GET /account
+2022-03-08T00:51:15.020Z [my-bank-api] info: GET /account
+2022-03-08T00:52:43.742Z [my-bank-api] info: API Started!
+2022-03-08T00:53:20.165Z [my-bank-api] info: API Started!
+2022-03-08T00:53:22.413Z [my-bank-api] info: GET /account
+2022-03-08T00:54:45.724Z [my-bank-api] info: API Started!
+2022-03-08T00:54:47.785Z [my-bank-api] error: Registro não encontrado.
+2022-03-08T00:55:11.375Z [my-bank-api] info: API Started!
+2022-03-08T00:55:22.803Z [my-bank-api] info: API Started!
+2022-03-08T00:55:26.645Z [my-bank-api] error: Registro não encontrado.
+2022-03-08T00:55:49.957Z [my-bank-api] info: API Started!
+2022-03-08T00:55:51.764Z [my-bank-api] error: Registro não encontrado.
+2022-03-08T00:55:58.031Z [my-bank-api] error: Registro não encontrado.
+2022-03-08T00:56:01.999Z [my-bank-api] info: GET /account
+2022-03-08T00:56:09.842Z [my-bank-api] info: GET /account
+2022-03-08T00:56:12.562Z [my-bank-api] error: Registro não encontrado.
+2022-03-08T00:57:15.287Z [my-bank-api] info: API Started!
+2022-03-08T01:00:14.264Z [my-bank-api] info: DELETE /account/id - 6
+2022-03-08T01:00:21.326Z [my-bank-api] info: DELETE /account/id - 8
+2022-03-08T01:00:25.400Z [my-bank-api] info: GET /account
+2022-03-08T01:05:36.845Z [my-bank-api] info: API Started!
+2022-03-08T01:05:38.935Z [my-bank-api] info: GET /account
+2022-03-08T01:05:39.980Z [my-bank-api] info: GET /account
+2022-03-08T01:05:58.034Z [my-bank-api] info: API Started!
+2022-03-08T01:06:06.290Z [my-bank-api] info: GET /account
+2022-03-08T01:06:13.261Z [my-bank-api] error: Registro não encontrado.
+2022-03-08T01:06:14.446Z [my-bank-api] error: Registro não encontrado.
+2022-03-08T01:10:31.509Z [my-bank-api] info: API Started!
+2022-03-08T01:10:43.869Z [my-bank-api] info: GET /account
+2022-03-08T01:10:47.559Z [my-bank-api] info: GET /account/id
+2022-03-08T01:10:54.151Z [my-bank-api] info: POST /account - {"id":11,"name":"Mario Sena","balance":8956.6}
+2022-03-08T01:11:03.587Z [my-bank-api] info: PUT /account - {"id":4,"name":"Ricardo Ferreira","balance":45889}
+2022-03-08T01:11:10.374Z [my-bank-api] info: PATCH /account/UpdateBalance - {"id":1,"balance":1058.2}
+2022-03-08T01:12:32.223Z [my-bank-api] info: API Started!
+2022-03-08T01:13:34.825Z [my-bank-api] info: API Started!
+2022-03-08T01:14:42.816Z [my-bank-api] info: API Started!
+2022-03-08T01:14:55.683Z [my-bank-api] info: PATCH /account/UpdateBalance - {"id":1,"balance":1058.2}
+2022-03-08T01:16:05.372Z [my-bank-api] info: API Started!
+2022-03-08T16:19:13.363Z [my-bank-api] info: API Started!
+2022-03-08T16:20:16.180Z [my-bank-api] info: GET /account
+2022-03-08T16:20:25.206Z [my-bank-api] error: Registro não encontrado.
+2022-03-08T16:22:16.735Z [my-bank-api] info: API Started!
+2022-03-08T16:22:52.344Z [my-bank-api] info: API Started!
+2022-03-08T16:23:04.293Z [my-bank-api] info: GET /account
+2022-03-08T16:23:26.139Z [my-bank-api] info: API Started!
+2022-03-08T16:23:28.794Z [my-bank-api] info: GET /account
+2022-03-08T16:23:30.066Z [my-bank-api] info: GET /account
+2022-03-08T16:38:10.168Z [my-bank-api] info: API Started!
+2022-03-08T16:39:05.397Z [my-bank-api] info: API Started!
+2022-03-08T16:41:09.885Z [my-bank-api] info: API Started!
+2022-03-08T16:45:12.895Z [my-bank-api] info: API Started!
+2022-03-08T16:50:32.467Z [my-bank-api] info: API Started!
+2022-03-08T16:55:27.417Z [my-bank-api] info: API Started!
+2022-03-08T16:55:43.326Z [my-bank-api] info: POST /account - {"id":12,"name":"Mario Miranda","balance":8956.6}
+2022-03-08T16:55:49.431Z [my-bank-api] info: GET /account
+2022-03-08T16:56:49.684Z [my-bank-api] info: API Started!
+2022-03-08T16:58:11.437Z [my-bank-api] info: API Started!
+2022-03-08T16:58:33.779Z [my-bank-api] info: GET /account
+2022-03-08T16:58:34.611Z [my-bank-api] info: GET /account
+2022-03-08T17:08:35.927Z [my-bank-api] info: API Started!
+2022-03-08T17:08:44.050Z [my-bank-api] info: GET /account/id
+2022-03-08T17:08:48.992Z [my-bank-api] info: GET /account/id
+2022-03-08T17:12:16.711Z [my-bank-api] info: GET /account
+2022-03-08T17:13:00.328Z [my-bank-api] info: GET /account
+2022-03-08T17:13:10.120Z [my-bank-api] info: GET /account
+2022-03-08T17:13:16.726Z [my-bank-api] info: DELETE /account/id - 4
+2022-03-08T17:13:28.571Z [my-bank-api] info: GET /account
+2022-03-08T17:14:23.788Z [my-bank-api] info: DELETE /account/id - 4
+2022-03-08T17:14:27.909Z [my-bank-api] info: GET /account
+2022-03-08T17:15:15.907Z [my-bank-api] info: DELETE /account/id - 12
+2022-03-08T17:15:20.622Z [my-bank-api] info: GET /account
+2022-03-08T17:19:31.321Z [my-bank-api] info: API Started!
+2022-03-08T17:19:37.733Z [my-bank-api] info: DELETE /account/id - 12
+2022-03-08T17:19:41.301Z [my-bank-api] info: GET /account
+2022-03-08T17:20:44.260Z [my-bank-api] info: API Started!
+2022-03-08T17:20:49.719Z [my-bank-api] info: GET /account
+2022-03-08T17:20:55.053Z [my-bank-api] info: GET /account
+2022-03-08T17:20:56.023Z [my-bank-api] info: GET /account
+2022-03-08T17:20:56.418Z [my-bank-api] info: GET /account
+2022-03-08T17:20:57.761Z [my-bank-api] info: GET /account
+2022-03-08T17:20:58.469Z [my-bank-api] info: GET /account
+2022-03-08T17:20:58.822Z [my-bank-api] info: GET /account
+2022-03-08T17:20:59.143Z [my-bank-api] info: GET /account
+2022-03-08T17:20:59.468Z [my-bank-api] info: GET /account
+2022-03-08T17:21:11.326Z [my-bank-api] info: API Started!
+2022-03-08T17:21:18.318Z [my-bank-api] info: GET /account
+2022-03-08T17:22:09.673Z [my-bank-api] info: API Started!
+2022-03-08T17:22:15.329Z [my-bank-api] info: GET /accountoi
+2022-03-08T17:22:22.732Z [my-bank-api] info: API Started!
+2022-03-08T21:38:38.649Z [my-bank-api] info: API Started!
+2022-03-08T21:44:00.012Z [my-bank-api] info: API Started!
+2022-03-08T21:46:34.569Z [my-bank-api] info: API Started!
+2022-03-08T21:46:54.572Z [my-bank-api] info: API Started!
+2022-03-08T21:47:01.011Z [my-bank-api] info: GET /account
+2022-03-08T21:47:02.400Z [my-bank-api] info: GET /account
+2022-03-08T21:47:23.738Z [my-bank-api] info: API Started!
+2022-03-08T21:47:28.722Z [my-bank-api] info: API Started!
+2022-03-08T21:48:26.650Z [my-bank-api] info: API Started!
+2022-03-08T21:48:47.446Z [my-bank-api] info: API Started!
+2022-03-08T21:48:55.607Z [my-bank-api] info: API Started!
+2022-03-08T21:48:59.440Z [my-bank-api] info: GET /account
+2022-03-08T21:49:00.398Z [my-bank-api] info: GET /account
+2022-03-08T21:49:09.112Z [my-bank-api] info: GET /account
+2022-03-08T21:49:10.026Z [my-bank-api] info: GET /account
+2022-03-08T21:49:10.680Z [my-bank-api] info: GET /account
+2022-03-08T21:49:53.122Z [my-bank-api] info: API Started!
+2022-03-08T21:50:15.641Z [my-bank-api] info: API Started!
+2022-03-08T21:50:18.437Z [my-bank-api] info: GET /account
+2022-03-08T21:50:19.441Z [my-bank-api] info: GET /account
+2022-03-08T21:50:25.238Z [my-bank-api] info: GET /account
+2022-03-08T21:50:34.461Z [my-bank-api] info: GET /account
+2022-03-08T21:50:35.358Z [my-bank-api] info: GET /account
+2022-03-08T21:50:44.031Z [my-bank-api] info: GET /account
+2022-03-08T21:50:56.650Z [my-bank-api] info: GET /account
+2022-03-08T21:51:00.476Z [my-bank-api] error: Cannot read properties of undefined (reading 'find')
+2022-03-08T21:51:15.924Z [my-bank-api] error: Cannot read properties of undefined (reading 'push')
+2022-03-08T21:52:12.774Z [my-bank-api] info: API Started!
+2022-03-08T21:52:16.630Z [my-bank-api] error: Cannot read properties of undefined (reading 'push')
+2022-03-08T21:59:16.214Z [my-bank-api] info: API Started!
+2022-03-08T22:00:09.656Z [my-bank-api] info: API Started!
+2022-03-08T22:00:17.318Z [my-bank-api] error: readFile is not defined
+2022-03-08T22:00:39.822Z [my-bank-api] info: API Started!
+2022-03-08T22:00:43.465Z [my-bank-api] error: Cannot read properties of undefined (reading 'push')
+2022-03-08T22:00:48.707Z [my-bank-api] info: API Started!
+2022-03-08T22:02:21.477Z [my-bank-api] info: API Started!
+2022-03-08T22:02:47.760Z [my-bank-api] error: Cannot read properties of undefined (reading 'push')
+2022-03-08T22:04:44.617Z [my-bank-api] info: API Started!
+2022-03-08T22:04:47.762Z [my-bank-api] error: Cannot read properties of undefined (reading 'push')
+2022-03-08T22:05:34.551Z [my-bank-api] info: API Started!
+2022-03-08T22:05:49.031Z [my-bank-api] info: API Started!
+2022-03-08T22:05:55.263Z [my-bank-api] info: API Started!
+2022-03-08T22:05:59.222Z [my-bank-api] error: Cannot read properties of undefined (reading 'push')
+2022-03-08T22:06:00.223Z [my-bank-api] error: Cannot read properties of undefined (reading 'push')
+2022-03-08T22:06:00.618Z [my-bank-api] error: Cannot read properties of undefined (reading 'push')
+2022-03-08T22:07:30.416Z [my-bank-api] info: API Started!
+2022-03-08T22:07:34.209Z [my-bank-api] info: API Started!
+2022-03-08T22:09:19.286Z [my-bank-api] info: API Started!
+2022-03-08T22:09:23.288Z [my-bank-api] info: API Started!
+2022-03-08T22:09:32.166Z [my-bank-api] error: Cannot read properties of undefined (reading 'push')
+2022-03-08T22:10:28.287Z [my-bank-api] error: Cannot read properties of undefined (reading 'push')
+2022-03-08T22:12:40.843Z [my-bank-api] error: ENOENT: no such file or directory, open 'D:\Users\Patricia\Documents\Bootcamp NodeJs\modulo1\my-bank-api\accounts.json'
+2022-03-08T22:13:11.770Z [my-bank-api] error: Unexpected end of JSON input
+2022-03-08T22:13:40.593Z [my-bank-api] info: API Started!
+2022-03-08T22:13:45.998Z [my-bank-api] error: Unexpected end of JSON input
+2022-03-08T22:13:46.991Z [my-bank-api] error: Unexpected end of JSON input
+2022-03-08T22:13:47.655Z [my-bank-api] error: Unexpected end of JSON input
+2022-03-08T22:14:14.595Z [my-bank-api] info: API Started and File Created!
+2022-03-08T22:14:20.183Z [my-bank-api] info: POST /account - {"id":1,"name":"Mario Sena","balance":8956.6}
+2022-03-08T22:17:19.248Z [my-bank-api] info: API Started!
+2022-03-08T22:17:27.995Z [my-bank-api] info: GET /account
+2022-03-08T22:17:47.979Z [my-bank-api] info: POST /account - {"id":2,"name":"João Silva","balance":76.6}
+2022-03-08T22:18:00.094Z [my-bank-api] info: POST /account - {"id":3,"name":"Maria Andrade","balance":1000.6}
+2022-03-08T22:18:02.705Z [my-bank-api] info: GET /account
+2022-03-08T22:18:55.117Z [my-bank-api] info: API Started!
+2022-03-08T22:19:16.598Z [my-bank-api] info: API Started!
+2022-03-08T22:21:18.187Z [my-bank-api] error: AccountService is not defined
+2022-03-08T22:22:23.059Z [my-bank-api] info: API Started!
+2022-03-08T22:22:25.998Z [my-bank-api] info: GET /account/id
+2022-03-08T22:22:29.723Z [my-bank-api] info: GET /account/id
+2022-03-08T22:22:33.744Z [my-bank-api] info: GET /account/id
+2022-03-08T22:23:14.818Z [my-bank-api] info: API Started!
+2022-03-08T22:25:07.405Z [my-bank-api] info: API Started!
+2022-03-08T22:25:12.262Z [my-bank-api] info: API Started!
+2022-03-08T22:25:27.451Z [my-bank-api] info: POST /account - {"id":4,"name":"Maria Andrade 2","balance":1000.6}
+2022-03-08T22:25:33.590Z [my-bank-api] info: GET /account
+2022-03-08T22:25:39.244Z [my-bank-api] info: POST /account - {"id":5,"name":"Maria Andrade 2","balance":1000.6}
+2022-03-08T22:25:49.670Z [my-bank-api] info: GET /account/id
+2022-03-08T22:25:59.017Z [my-bank-api] info: DELETE /account/id - 5
+2022-03-08T22:26:09.829Z [my-bank-api] info: GET /account
+2022-03-08T22:26:16.690Z [my-bank-api] info: DELETE /account/id - 10
+2022-03-08T22:26:24.845Z [my-bank-api] info: DELETE /account/id - 4
+2022-03-08T22:26:27.818Z [my-bank-api] info: GET /account
+2022-03-08T22:27:18.223Z [my-bank-api] info: API Started!
+2022-03-08T22:34:34.885Z [my-bank-api] info: API Started!
+2022-03-08T22:35:04.953Z [my-bank-api] info: PUT /account - {"id":3,"name":"Jose Chaves","balance":2389.2}
+2022-03-08T22:35:12.583Z [my-bank-api] info: GET /account
+2022-03-08T22:36:12.879Z [my-bank-api] info: GET /account
+2022-03-08T22:36:13.613Z [my-bank-api] info: GET /account
+2022-03-08T22:36:18.788Z [my-bank-api] info: POST /account - {"id":6,"name":"Maria Andrade 2","balance":1000.6}
+2022-03-08T22:36:22.776Z [my-bank-api] info: GET /account
+2022-03-08T22:36:32.353Z [my-bank-api] info: GET /account/id
+2022-03-08T22:36:37.274Z [my-bank-api] info: GET /account/id
+2022-03-08T22:36:47.394Z [my-bank-api] info: DELETE /account/id - 6
+2022-03-08T22:37:22.577Z [my-bank-api] info: PUT /account - {"id":1,"name":"Mario Sena 2","balance":956.6}
+2022-03-08T22:37:28.198Z [my-bank-api] info: GET /account
+2022-03-08T22:39:34.158Z [my-bank-api] info: API Started!
+2022-03-08T22:39:57.370Z [my-bank-api] info: API Started!
+2022-03-08T22:40:07.381Z [my-bank-api] info: API Started!
+2022-03-08T22:44:37.654Z [my-bank-api] info: API Started!
+2022-03-08T22:44:50.440Z [my-bank-api] info: API Started!
+2022-03-08T22:44:55.318Z [my-bank-api] info: PUT /account - {"id":1,"name":"Mario Sena 2","balance":956.6}
+2022-03-08T22:44:58.779Z [my-bank-api] info: GET /account
+2022-03-08T22:45:08.377Z [my-bank-api] info: PATCH /account/UpdateBalance - {"id":3,"balance":5800.2}
+2022-03-08T22:45:13.406Z [my-bank-api] info: PATCH /account/UpdateBalance - {"id":3,"balance":800.2}
+2022-03-08T22:45:17.539Z [my-bank-api] info: GET /account
+2022-03-08T22:48:33.843Z [my-bank-api] info: API Started!
+2022-03-08T22:48:44.101Z [my-bank-api] info: API Started!
+2022-03-08T22:48:58.214Z [my-bank-api] info: API Started!
+2022-03-08T22:50:15.660Z [my-bank-api] info: API Started!
+2022-03-08T22:51:47.380Z [my-bank-api] info: API Started!
+2022-03-08T22:55:14.472Z [my-bank-api] info: API Started!
+2022-03-08T22:55:42.992Z [my-bank-api] info: API Started!
+2022-03-08T22:56:23.067Z [my-bank-api] info: POST /account - {}
+2022-03-08T22:58:19.865Z [my-bank-api] info: API Started!
+2022-03-08T22:58:26.014Z [my-bank-api] error: readFile is not defined
+2022-03-08T22:58:48.758Z [my-bank-api] info: API Started!
+2022-03-08T22:58:50.794Z [my-bank-api] info: POST /account - {"id":7,"name":"Karen Viana","balance":100.6}
+2022-03-08T22:58:54.341Z [my-bank-api] info: GET /account
+2022-03-08T22:59:31.396Z [my-bank-api] info: API Started!
+2022-03-08T23:01:43.021Z [my-bank-api] info: API Started!
+2022-03-08T23:02:20.933Z [my-bank-api] info: API Started!
+2022-03-08T23:02:36.496Z [my-bank-api] info: GET /account
+2022-03-08T23:02:39.124Z [my-bank-api] info: GET /account
+2022-03-08T23:03:33.625Z [my-bank-api] info: API Started!
+2022-03-08T23:04:43.417Z [my-bank-api] info: API Started!
+2022-03-08T23:04:53.146Z [my-bank-api] info: API Started!
+2022-03-08T23:05:03.157Z [my-bank-api] info: GET /account/id
+2022-03-08T23:05:15.390Z [my-bank-api] info: GET /account/id
+2022-03-08T23:05:19.545Z [my-bank-api] info: GET /account/id
+2022-03-08T23:06:16.325Z [my-bank-api] info: API Started!
+2022-03-08T23:06:40.480Z [my-bank-api] info: API Started!
+2022-03-08T23:07:37.030Z [my-bank-api] info: API Started!
+2022-03-08T23:07:50.124Z [my-bank-api] info: GET /account
+2022-03-08T23:07:56.911Z [my-bank-api] info: DELETE /account/id - 7
+2022-03-08T23:07:59.754Z [my-bank-api] info: GET /account
+2022-03-08T23:09:35.539Z [my-bank-api] info: API Started!
+2022-03-08T23:09:57.945Z [my-bank-api] info: API Started!
+2022-03-08T23:10:49.311Z [my-bank-api] info: API Started!
+2022-03-08T23:11:00.891Z [my-bank-api] info: PUT /account - {"id":1,"name":"Mario Sena 2","balance":956.6}
+2022-03-08T23:11:05.505Z [my-bank-api] info: PUT /account - {"id":1,"name":"Mario Sena 7","balance":956.6}
+2022-03-08T23:11:08.467Z [my-bank-api] info: GET /account
+2022-03-08T23:11:16.167Z [my-bank-api] info: API Started!
+2022-03-08T23:12:37.942Z [my-bank-api] info: API Started!
+2022-03-08T23:12:46.974Z [my-bank-api] info: API Started!
+2022-03-08T23:13:14.154Z [my-bank-api] info: API Started!
+2022-03-08T23:13:25.851Z [my-bank-api] info: PATCH /account/UpdateBalance - {"id":3,"balance":15632.2}
+2022-03-08T23:13:29.813Z [my-bank-api] info: GET /account
+2022-03-08T23:13:55.519Z [my-bank-api] info: API Started!
+2022-03-08T23:13:59.473Z [my-bank-api] info: API Started!
+2022-03-08T23:14:14.107Z [my-bank-api] info: API Started!
+2022-03-08T23:14:19.486Z [my-bank-api] info: API Started!
+2022-03-08T23:14:23.850Z [my-bank-api] info: API Started!
+2022-03-08T23:18:24.411Z [my-bank-api] info: API Started!
+2022-03-08T23:19:19.597Z [my-bank-api] info: POST /account - {"id":8,"name":"Karen Viana 96","balance":100.6}
+2022-03-08T23:19:23.343Z [my-bank-api] info: GET /account
+2022-03-08T23:19:34.086Z [my-bank-api] info: API Started!
+2022-03-08T23:19:35.555Z [my-bank-api] info: GET /account
+2022-03-08T23:19:42.139Z [my-bank-api] info: GET /account/id
+2022-03-08T23:19:46.289Z [my-bank-api] info: GET /account/id
+2022-03-08T23:19:52.357Z [my-bank-api] info: GET /account
+2022-03-08T23:19:57.596Z [my-bank-api] info: GET /account/id
+2022-03-08T23:20:17.857Z [my-bank-api] info: DELETE /account/id - 6
+2022-03-08T23:20:29.276Z [my-bank-api] info: DELETE /account/id - 3
+2022-03-08T23:20:31.777Z [my-bank-api] info: GET /account
+2022-03-08T23:20:42.658Z [my-bank-api] info: PUT /account - {"id":1,"name":"Mario Sena 1","balance":956.6}
+2022-03-08T23:20:46.785Z [my-bank-api] info: GET /account
+2022-03-08T23:20:54.789Z [my-bank-api] error: Registro não encontrado.
+2022-03-08T23:21:00.973Z [my-bank-api] info: PATCH /account/UpdateBalance - {"id":1,"balance":0}
+2022-03-08T23:22:17.764Z [my-bank-api] info: API Started!
+2022-03-08T23:22:26.665Z [my-bank-api] info: API Started!
+2022-03-08T23:24:18.060Z [my-bank-api] info: API Started!
+2022-03-08T23:24:24.455Z [my-bank-api] info: PATCH /account/UpdateBalance - {"id":1,"balance":0}
+2022-03-08T23:24:29.679Z [my-bank-api] info: PATCH /account/UpdateBalance - {"id":1,"balance":15698}
+2022-03-08T23:24:32.875Z [my-bank-api] info: GET /account
+2022-03-08T23:54:02.017Z [my-bank-api] info: API Started!
+2022-03-14T21:59:21.145Z [my-bank-api] info: API Started!
